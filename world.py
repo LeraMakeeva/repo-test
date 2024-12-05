@@ -1,4 +1,4 @@
-x = 756237282
+x = 123
 last = 0
 minimum = 9
 maximum = 0
