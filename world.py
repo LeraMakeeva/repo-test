@@ -1,6 +1,5 @@
 x = int(input())
 last = 0
-
 minimum = 9
 maximum = 0
 while x > 0:
